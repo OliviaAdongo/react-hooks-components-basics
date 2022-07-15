@@ -10,4 +10,4 @@ export default Comment;
 //   render() {
 //     return <div>Naturally, I agree with this article.</div>;
 //   }
-// }
+// 
